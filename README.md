@@ -1,12 +1,12 @@
 ### Hola mi gente👋
 
-Soy estudiante de la ULL para bsucar un plan Z.
+**Soy estudiante de la ULL para buscar un plan Z.**
 
 Sgúen etsduios raleziaods por la Uivenrsdiad ignlsea de Cmdibrage, no ipmotra el odren en el que las ltears etsén ersciats, la úicna csoa ipormtnate es que la pmrirea y la útlima ltera esétn ecsritas en la psiócion cocrreta. El retso peuden etsar ttaolmntee doaerdsendo y aún pordás lerelo sin pobrleams, pquore no lemeos cada ltera en sí msima snio cdaa paalbra etenra.
 
 ![Alejandrofonte stats](https://github-readme-stats.vercel.app/api?username=Alejandrofonte&show_icons=true&locale=en)
 
-- ⚡ Fun fact: Im a dancing machine0
+- ⚡ Fun fact: Im a dancing machine
   
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
