@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Alejandrofonte stats](https://github-readme-stats.vercel.app/api?username=Alejandrofontel&show_icons=true&locale=en)
+
 <!--
 **Alejandrofonte/Alejandrofonte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
