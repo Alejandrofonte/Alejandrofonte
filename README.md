@@ -1,6 +1,6 @@
 ### Hola mi gente👋
 
-**Soy estudiante de la ULL para buscar un plan Z.**
+**Soy estudiante de la ULL en busca de un plan Z.**
 
 Sgúen etsduios raleziaods por la Uivenrsdiad ignlsea de Cmdibrage, no ipmotra el odren en el que las ltears etsén ersciats, la úicna csoa ipormtnate es que la pmrirea y la útlima ltera esétn ecsritas en la psiócion cocrreta. El retso peuden etsar ttaolmntee doaerdsendo y aún pordás lerelo sin pobrleams, pquore no lemeos cada ltera en sí msima snio cdaa paalbra etenra.
 
